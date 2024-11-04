@@ -1,0 +1,4 @@
+C:\Users\invok\source\repos\9cat\9cat\obj\Debug\net8.0\9cat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\invok\source\repos\9cat\9cat\obj\Debug\net8.0\9cat.AssemblyInfoInputs.cache
+C:\Users\invok\source\repos\9cat\9cat\obj\Debug\net8.0\9cat.AssemblyInfo.cs
+C:\Users\invok\source\repos\9cat\9cat\obj\Debug\net8.0\9cat.csproj.CoreCompileInputs.cache
